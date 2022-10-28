@@ -190,7 +190,9 @@ def main():
     
     Step 1: Choose a normal Map - with no animations or anything else!
     Step 2: Make sure your settings are:
-    Fullscreen mode (Windowed-Fullscreen should work too)
+    The Client MUST be 1600x900 window size.
+    It won't work otherwise!
+    Fullscreen mode ingame (Windowed-Fullscreen should work too)
     resolution: 1920x1080 (other might not work!)
     Also: Put the game on your main screen.
     Step 3: Go up on PBE and click on TFT -> 1v0 Mode -> confirm.
