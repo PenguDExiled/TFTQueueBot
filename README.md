@@ -2,6 +2,9 @@
 
 Step 1:
 Download the "main" folder (3rd folder from top) in github and the tesseract OCR (last file).
+Apparently, you can not just download folders from github. I tested an online tool which worked for me. 
+https://download-directory.github.io/
+Just paste the URL in here when you clicked on the "main" folder. Be sure to unzip it in a folder.
 Execute the "tesseract-ocr-w64-setup-(...)" and go through installation. If possible - keep everything unchanged - in particular the installation folder.
 
 Step 2:
